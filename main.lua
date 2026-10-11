@@ -1,4 +1,1 @@
-loadstring(game:HttpGet("https://shirohub-nine.vercel.app"))()
--- RIVALS
--- SNIPER DUELS
--- MORE GUN GAMES SUPPORTED
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/MV0aoqsww2YCR9r0/raw"))()
